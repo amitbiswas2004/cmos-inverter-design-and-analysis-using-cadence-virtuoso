@@ -91,15 +91,13 @@ The transient response helps determine:
 
 ## 👨‍💻 Author
 
-**Jhelum Pradhan**  
+Amit Kiron Biswas 
 Electronics and Communication Enthusiast | Analog Design Learner  
 *This repository is part of an academic exploration into the fundamentals of CMOS logic design.*
 
 ---
 
-## 📄 License
 
-This work is shared under the [MIT License](LICENSE) and intended for **educational and non-commercial use**.
 
 ---
 
